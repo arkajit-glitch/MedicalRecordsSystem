@@ -2,6 +2,8 @@
 
 ## 📌 Project Description
 <img width="1864" height="992" alt="image" src="https://github.com/user-attachments/assets/f690292e-dc54-4f8a-aef3-0a6c308a3df3" />
+After Day 2:
+<img width="1630" height="979" alt="image" src="https://github.com/user-attachments/assets/dfff79e1-ca66-4cf3-b434-422b01c9673c" />
 
 
 This project is a decentralized **Medical Records Management System** built using **Soroban Smart Contracts** on the Stellar blockchain.
