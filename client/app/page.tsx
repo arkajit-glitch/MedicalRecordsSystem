@@ -77,9 +77,9 @@ export default function Home() {
 
           <h1 className="mb-3">
             <span className="block text-4xl sm:text-5xl font-bold tracking-tight leading-[1.1]">
-              <span className="text-white">Supply Chain </span>
+              <span className="text-white">Medical Records </span>
               <span className="bg-gradient-to-r from-[#7c6cf0] via-[#4fc3f7] to-[#7c6cf0] bg-[length:200%_auto] animate-gradient-shift bg-clip-text text-transparent">
-                on the Blockchain
+                System
               </span>
             </span>
           </h1>
