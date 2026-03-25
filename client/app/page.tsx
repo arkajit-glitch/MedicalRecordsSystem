@@ -72,7 +72,7 @@ export default function Home() {
               <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-[#7c6cf0] opacity-75" />
               <span className="relative inline-flex h-2 w-2 rounded-full bg-[#7c6cf0]" />
             </span>
-            Powered by Soroban on Stellar
+            Powered by Soroban on Stellar (by Arkajit Saha)
           </div>
 
           <h1 className="mb-3">
