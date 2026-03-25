@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  allowedDevOrigins: ['svc-63bffd7b-morphvm-ufw81t2b.http.cloud.morph.so'],
 };
 
 export default nextConfig;
